@@ -16,4 +16,4 @@ How to download and verify one: **[https://database.bombcrypto.io/index.html](ht
 These are the sha256 of the tar files. They are published here, in a history that cannot be quietly
 rewritten, so a copy handed back years from now can still be checked against what was released.
 
-<sub>Updated 2026-09-23 08:11 UTC by the export job. Edits here are overwritten on the next publish.</sub>
+<sub>Updated 2026-09-23 09:45 UTC by the export job. Edits here are overwritten on the next publish.</sub>
